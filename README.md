@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with nested routes in React Router v6. The problem is that the nested route `/contact/details` is incorrectly defined within the parent route `/contact`.  This prevents the nested component from rendering. The solution shows the correct way to define nested routes in React Router v6.
